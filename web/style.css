@@ -1,0 +1,35 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 21 de mai. de 2024, 07:47:07
+    Author     : hahba
+*/
+.jacquard-12-regular {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.playfair-display-h2Fonte {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+    font-family: "Jacquard 12";
+    font-size: 55px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Playfair Display";
+    font-size: 30px;
+    text-align: center;
+}
+body {
+    background-image: url("https://images4.alphacoders.com/133/1337476.png");
+}
+
