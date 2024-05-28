@@ -21,7 +21,19 @@
     <body>
         <%@include file= "WEB-INF/jspf/menu.jspf" %>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-        <h1>Bem vindo ao Gerador de Backgrounds!</h1>
-        <h2>Neste site você será capaz de gerar, com facilidade, uma história de origem para o seu personagem de RPG.</h2>
+        <div class="container text-center">
+            <div class="row justify-content-md-center">
+                <div class="col"> <img src="https://64.media.tumblr.com/6e3c4d496f6c9b905ae3224645c648c5/b64ee7768290fb87-a7/s540x810/05b3da53a3dd30b4073c7dbf2ee2dcae39b4c8fd.pnj" style="width:80px;height:80px;"> </div>
+                <div class="col-md-auto"><h1>Bem vindo ao Gerador de Backgrounds!</h1></div>
+                <div class="col"> <img src="https://64.media.tumblr.com/108ad607fc8a447a5c7526b745e12a60/b64ee7768290fb87-95/s540x810/e1511709c822157b42d6ee12125ef9d16ef97e18.pnj" style="width:80px;height:80px;"> </div>
+            </div>
+        </div>
+        
+        <div class="container text-center">
+            <div class="row justify-content-md-center">
+                <div class="col-md-auto"><h2>Neste site você será capaz de gerar, com facilidade, uma história de origem para o seu personagem de RPG.</h2></div>
+            </div>
+        </div>
+        
     </body>
 </html>
