@@ -20,16 +20,34 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
 
 h1{
     font-family: "Jacquard 12";
-    font-size: 55px;
+    font-size: 60px;
     text-align: center;
 }
 
 h2 {
     font-family: "Playfair Display";
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
 }
 body {
     background-image: url("https://images4.alphacoders.com/133/1337476.png");
+}
+.navbar-brand{
+    font-family: "Jacquard 12";
+    font-size: 20px;
+    text-align: center;
+}
+
+.navbar-nav {
+    font-family: "Jacquard 12";
+    font-size: 20px;
+    text-align: center;
+    
+}
+.container-fluid {
+    background-color: #c7a452;
+}
+.navbar-nav {
+    background-color: #ad8f47;
 }
 
