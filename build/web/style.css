@@ -58,3 +58,8 @@ body {
     border-style: double inset;
     border-color: #b55f2d;
 }
+.col-6 {
+    border-width: 3px;
+    border-style: double;
+    border-color: #b55f2d;
+}
