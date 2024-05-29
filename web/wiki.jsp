@@ -31,8 +31,41 @@
         
         <div class="container text-center">
             <div class="row justify-content-md-center">
-                <div class="col-6"><h2>RAÇAS</h2></div>
-                <div class="col-6"><h2>CLASSES</h2></div>
+                <div class="col-6"><h1>Raças</h1></div>
+                <div class="col-6"><h1>Classes</h1></div>
+            </div>
+        </div>
+        <div class="container text-center">
+            <div class="row justify-content-md-center">
+                <div class="col-6">
+                    <ul class="list-group">
+                        <li class="list-group-item list-group-item-warning">BÁRBARO</li>
+                        <li class="list-group-item list-group-item-warning">BARDO</li>
+                        <li class="list-group-item list-group-item-warning">MAGO</li>
+                        <li class="list-group-item list-group-item-warning">FEITICEIRO</li>
+                        <li class="list-group-item list-group-item-warning">BRUXO</li>
+                        <li class="list-group-item list-group-item-warning">DRUIDA</li>
+                        <li class="list-group-item list-group-item-warning">RANGER</li>
+                        <li class="list-group-item list-group-item-warning">CLÉRIGO</li>
+                        <li class="list-group-item list-group-item-warning">PALADINO</li>
+                        <li class="list-group-item list-group-item-warning">GUERREIRO</li>
+                        <li class="list-group-item list-group-item-warning">MONGE</li>
+                        <li class="list-group-item list-group-item-warning">LADINO</li>
+                    </ul>
+                </div>
+                <div class="col-6">
+                    <ul class="list-group">
+                        <li class="list-group-item list-group-item-warning">HUMANOS</li>
+                        <li class="list-group-item list-group-item-warning">ELFOS</li>
+                        <li class="list-group-item list-group-item-warning">ANÕES</li>
+                        <li class="list-group-item list-group-item-warning">MINOTAUROS</li>
+                        <li class="list-group-item list-group-item-warning">GNOMOS</li>
+                        <li class="list-group-item list-group-item-warning">GOBLINS</li>
+                        <li class="list-group-item list-group-item-warning">TIEFLINGS</li>
+                        <li class="list-group-item list-group-item-warning">HALFLINGS</li>
+                        <li class="list-group-item list-group-item-warning">DRACONATOS</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </body>

@@ -63,3 +63,12 @@ body {
     border-style: double;
     border-color: #b55f2d;
 }
+ul { 
+    padding: 10px;
+    font-family: "Playfair Display";
+    font-size: 20px;
+    text-align: center;
+}
+.list-group-item {
+    background-color: rgba(255, 231, 201, 0.5);
+}
