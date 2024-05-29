@@ -55,15 +55,15 @@
                 </div>
                 <div class="col-6">
                     <ul class="list-group">
-                        <li class="list-group-item list-group-item-warning">HUMANOS</li>
-                        <li class="list-group-item list-group-item-warning">ELFOS</li>
-                        <li class="list-group-item list-group-item-warning">ANÕES</li>
-                        <li class="list-group-item list-group-item-warning">MINOTAUROS</li>
-                        <li class="list-group-item list-group-item-warning">GNOMOS</li>
-                        <li class="list-group-item list-group-item-warning">GOBLINS</li>
-                        <li class="list-group-item list-group-item-warning">TIEFLINGS</li>
-                        <li class="list-group-item list-group-item-warning">HALFLINGS</li>
-                        <li class="list-group-item list-group-item-warning">DRACONATOS</li>
+                        <li class="list-group-item list-group-item-danger">HUMANOS</li>
+                        <li class="list-group-item list-group-item-danger">ELFOS</li>
+                        <li class="list-group-item list-group-item-danger">ANÕES</li>
+                        <li class="list-group-item list-group-item-danger">MINOTAUROS</li>
+                        <li class="list-group-item list-group-item-danger">GNOMOS</li>
+                        <li class="list-group-item list-group-item-danger">GOBLINS</li>
+                        <li class="list-group-item list-group-item-danger">TIEFLINGS</li>
+                        <li class="list-group-item list-group-item-danger">HALFLINGS</li>
+                        <li class="list-group-item list-group-item-danger">DRACONATOS</li>
                     </ul>
                 </div>
             </div>
