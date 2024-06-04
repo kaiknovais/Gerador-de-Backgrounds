@@ -28,5 +28,67 @@
                 <div class="col"> <img src="https://64.media.tumblr.com/108ad607fc8a447a5c7526b745e12a60/b64ee7768290fb87-95/s540x810/e1511709c822157b42d6ee12125ef9d16ef97e18.pnj" style="width:80px;height:80px;"> </div>
             </div>
         </div>
+        <button onclick="d2()">d2</button><br />
+ <div id="dado2"></div>
+
+ <button onclick="d4()">d4</button><br />
+ <div id="dado4"></div>
+
+ <button onclick="d6()">d6</button><br />
+ <div id="dado6"></div>
+ <button onclick="d8()">d8</button><br />
+ <div id="dado8"></div>
+ <button onclick="d10()">d10</button><br />
+ <div id="dado10"></div>
+ <button onclick="d12()">d12</button><br />
+ <div id="dado12"></div>
+ <button onclick="d20()">d20</button><br />
+ <div id="dado20"></div>
+ <button onclick="d100()">d100</button><br />
+ <div id="dado100"></div>
+
+ <script>
+  
+function d2()
+  {
+    var dado2 = document.getElementById('dado2');
+    dado2.innerHTML = Math.floor((Math.random() * 2) + 1);
+  }
+  function d4()
+  {
+    var dado4 = document.getElementById('dado4');
+    dado4.innerHTML = Math.floor((Math.random() * 4) + 1);
+  }
+  function d6()
+  {
+    var dado6 = document.getElementById('dado6');
+    dado6.innerHTML = Math.floor((Math.random() * 6) + 1);
+  }
+  function d8()
+  {
+    var dado8 = document.getElementById('dado8');
+    dado8.innerHTML = Math.floor((Math.random() * 8) + 1);
+  }
+  function d10()
+  {
+    var dado10 = document.getElementById('dado10');
+    dado10.innerHTML = Math.floor((Math.random() * 10) + 1);
+  }
+ function d12()
+  {
+    var dado12 = document.getElementById('dado12');
+    dado12.innerHTML = Math.floor((Math.random() * 12) + 1);
+  }
+  function d20()
+  {
+    var dado20 = document.getElementById('dado20');
+    dado20.innerHTML = Math.floor((Math.random() * 20) + 1);
+  }
+  function d100()
+  {
+    var dado100 = document.getElementById('dado100');
+    dado100.innerHTML = Math.floor((Math.random() * 100) + 1);
+  }
+ </script>
     </body>
 </html>
