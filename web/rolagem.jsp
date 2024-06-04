@@ -28,25 +28,48 @@
                 <div class="col"> <img src="https://64.media.tumblr.com/108ad607fc8a447a5c7526b745e12a60/b64ee7768290fb87-95/s540x810/e1511709c822157b42d6ee12125ef9d16ef97e18.pnj" style="width:80px;height:80px;"> </div>
             </div>
         </div>
-        <button onclick="d2()">d2</button><br />
- <div id="dado2"></div>
-
- <button onclick="d4()">d4</button><br />
- <div id="dado4"></div>
-
- <button onclick="d6()">d6</button><br />
- <div id="dado6"></div>
- <button onclick="d8()">d8</button><br />
- <div id="dado8"></div>
- <button onclick="d10()">d10</button><br />
- <div id="dado10"></div>
- <button onclick="d12()">d12</button><br />
- <div id="dado12"></div>
- <button onclick="d20()">d20</button><br />
- <div id="dado20"></div>
- <button onclick="d100()">d100</button><br />
- <div id="dado100"></div>
-
+        <div class="container text-center">
+            <div class="row align-items-end">
+              <div class="col">
+                  <button type="button" class="btn btn-warning btn-lg" onclick="d2()">d2</button><br />
+                  <div id="dado2"></div>
+              </div>
+              <div class="col">
+                  <button type="button" class="btn btn-danger btn-lg" onclick="d4()">d4</button><br />
+                  <div id="dado4"></div>
+              </div>
+            </div>
+            <div class="row align-items-end">
+              <div class="col">
+                  <button type="button" class="btn btn-danger btn-lg" onclick="d6()">d6</button><br />
+                  <div id="dado6"></div>
+              </div>
+              <div class="col">
+                  <button type="button" class="btn btn-warning btn-lg" onclick="d8()">d8</button><br />
+                  <div id="dado8"></div>
+              </div>
+            </div>
+            <div class="row align-items-end">
+              <div class="col">
+                  <button type="button" class="btn btn-warning btn-lg" onclick="d10()">d10</button><br />
+                  <div id="dado10"></div>
+              </div>
+              <div class="col">
+                  <button type="button" class="btn btn-danger btn-lg" onclick="d12()">d12</button><br />
+                  <div id="dado12"></div>
+              </div>
+            </div>
+            <div class="row align-items-end">
+              <div class="col">
+                  <button type="button" class="btn btn-danger btn-lg" onclick="d20()">d20</button><br />
+                  <div id="dado20"></div>
+              </div>
+              <div class="col">
+                  <button type="button" class="btn btn-warning btn-lg" onclick="d100()">d100</button><br />
+                  <div id="dado100"></div>
+              </div>
+            </div>
+        </div>
  <script>
   
 function d2()

@@ -63,6 +63,14 @@ body {
     border-style: double;
     border-color: #b55f2d;
 }
+button {
+    border-width: 5px;
+    border-style: inset;
+    border-color: #fccd5b;
+    padding: 10px;
+    background-color: #fac543;
+    font-family: "Jacquard 12";
+}
 ul { 
     padding: 10px;
     font-family: "Playfair Display";
