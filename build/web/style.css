@@ -64,9 +64,6 @@ body {
     border-color: #b55f2d;
 }
 button {
-    border-width: 5px;
-    border-style: inset;
-    border-color: #fccd5b;
     padding: 10px;
     background-color: #fac543;
     font-family: "Jacquard 12";
@@ -76,4 +73,16 @@ ul {
     font-family: "Playfair Display";
     font-size: 20px;
     text-align: center;
+}
+.accordion-body {
+    background-color: #ffe39e;
+    border-width: 5px;
+    border-style: double;
+    border-color: #fac543;
+}
+.accordion-item {
+    font-family: "Playfair Display";
+}
+.accordion-header {
+    font-family: "Playfair Display";
 }
