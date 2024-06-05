@@ -30,41 +30,41 @@
         </div>
         <div class="container text-center">
             <div class="row align-items-end">
-              <div class="col">
+              <div class="col" id="dados">
                   <button type="button" class="btn btn-warning btn-lg" onclick="d2()">d2</button><br />
                   <div id="dado2"></div>
               </div>
-              <div class="col">
+              <div class="col" id="dados">
                   <button type="button" class="btn btn-danger btn-lg" onclick="d4()">d4</button><br />
                   <div id="dado4"></div>
               </div>
             </div>
             <div class="row align-items-end">
-              <div class="col">
+              <div class="col" id="dados">
                   <button type="button" class="btn btn-danger btn-lg" onclick="d6()">d6</button><br />
                   <div id="dado6"></div>
               </div>
-              <div class="col">
+              <div class="col" id="dados">
                   <button type="button" class="btn btn-warning btn-lg" onclick="d8()">d8</button><br />
                   <div id="dado8"></div>
               </div>
             </div>
             <div class="row align-items-end">
-              <div class="col">
+              <div class="col" id="dados">
                   <button type="button" class="btn btn-warning btn-lg" onclick="d10()">d10</button><br />
                   <div id="dado10"></div>
               </div>
-              <div class="col">
+              <div class="col" id="dados">
                   <button type="button" class="btn btn-danger btn-lg" onclick="d12()">d12</button><br />
                   <div id="dado12"></div>
               </div>
             </div>
             <div class="row align-items-end">
-              <div class="col">
+              <div class="col" id="dados">
                   <button type="button" class="btn btn-danger btn-lg" onclick="d20()">d20</button><br />
                   <div id="dado20"></div>
               </div>
-              <div class="col">
+              <div class="col" id="dados">
                   <button type="button" class="btn btn-warning btn-lg" onclick="d100()">d100</button><br />
                   <div id="dado100"></div>
               </div>

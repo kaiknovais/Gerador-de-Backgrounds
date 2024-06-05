@@ -63,10 +63,22 @@ body {
     border-style: double;
     border-color: #b55f2d;
 }
-button {
-    padding: 10px;
-    background-color: #fac543;
+#dados {
+    padding: 5px;
+    background-color: antiquewhite;
     font-family: "Jacquard 12";
+    font-size: 40px;
+    border-width: 5px;
+    border-style: double;
+    border-color: #fac543;
+}
+#dado2, #dado4, #dado6, #dado8, #dado10, #dado12, #dado20, #dado100 {
+    border-width: 5px;
+    border-color: #fac543;
+    border-style: inset;
+    background-color: #ffe39e;
+    line-height: 10px;
+    padding: 15px;
 }
 ul { 
     padding: 10px;
@@ -81,8 +93,5 @@ ul {
     border-color: #fac543;
 }
 .accordion-item {
-    font-family: "Playfair Display";
-}
-.accordion-header {
     font-family: "Playfair Display";
 }
