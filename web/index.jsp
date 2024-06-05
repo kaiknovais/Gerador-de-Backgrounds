@@ -29,7 +29,7 @@
             </div>
         </div>
         
-        <div class="container text-center">
+        <div class="container text-center" id="text">
             <div class="row justify-content-md-center">
                 <div class="col-md-auto"><h2>Neste site você será capaz de gerar, com facilidade, uma história de origem para o seu personagem de RPG.</h2></div>
             </div>
