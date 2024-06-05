@@ -30,6 +30,11 @@ h2 {
     font-size: 20px;
     text-align: center;
 }
+p {
+    font-family: "Playfair Display";
+    font-size: 20px;
+    text-align: center;
+}
 body {
     background-image: url("https://images4.alphacoders.com/133/1337476.png");
 }
@@ -64,21 +69,19 @@ body {
     border-color: #b55f2d;
 }
 #dados {
-    padding: 5px;
-    background-color: antiquewhite;
     font-family: "Jacquard 12";
-    font-size: 40px;
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+    padding: 5px;
+    background-color: #fabb78;
     border-width: 5px;
-    border-style: double;
+    border-style: inset;
     border-color: #fac543;
 }
-#dado2, #dado4, #dado6, #dado8, #dado10, #dado12, #dado20, #dado100 {
-    border-width: 5px;
-    border-color: #fac543;
-    border-style: inset;
-    background-color: #ffe39e;
-    line-height: 10px;
-    padding: 15px;
+#text {
+    background-color: #fabb78;
+    padding: 10px;
 }
 ul { 
     padding: 10px;
@@ -87,11 +90,26 @@ ul {
     text-align: center;
 }
 .accordion-body {
-    background-color: #ffe39e;
+    background-color: #fabb78;
     border-width: 5px;
     border-style: double;
     border-color: #fac543;
 }
 .accordion-item {
     font-family: "Playfair Display";
+}
+selector {
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    text-align-last: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+#result {
+    font-size: 40px;
+    font-weight: bold;
 }
