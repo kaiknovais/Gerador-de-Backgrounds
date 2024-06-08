@@ -10,18 +10,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChatGPT 3 Test</title>
+    <title>Gerador de Background</title>
 </head>
 <body>
     <div>
-        <h1>ChatGPT 3 API Test</h1>
+        <h1>Gerador de Background</h1>
         <form id="chat-form">
-            <label for="mytext">Enter your message:</label>
+            <label for="mytext">Insira sua Mensagem:</label>
             <input type="text" id="mytext" style="width: 50%;" required>
             <button type="submit">Submit</button>
         </form>
                 <div>
-            <h2>Response:</h2>
+            <h2>Resposta:</h2>
             <textarea id="response" rows="20" style="width: 80%;" readonly></textarea>
         </div>
     </div>
