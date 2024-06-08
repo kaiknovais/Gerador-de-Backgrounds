@@ -195,7 +195,7 @@
                   </h2>
                   <div id="collapseThirteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        O <strong>Humano</strong> é uma das raças genéricas do RPG medieval, e na maioria das vezes, representam a maior população nos cenários. Na maior parte dos sistemas de rpg mais famosos, os humanos são cheios de ambição, e participam ativamente da história. Possuem as mais variadas etnias, que diferem de região pra região de cada cenário. Normalmente possuem entre 1,5 e 1,9 metros, e entre 50 e 100kg, podendo passar esse peso. (considerando um humano que já passou a maioridade – seus 16 anos, aproximadamente).
                     </div>
                   </div>
                 </div>
@@ -207,7 +207,7 @@
                   </h2>
                   <div id="collapseFourteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        Os <strong>elfos</strong> são criaturas mágicas, normalmente ligadas à beleza da vida, à arte, e a um sentimento de saudade e reivindicação. Afinal, os elfos são criaturas que vivem cerca de 10 vezes mais que os humanos e que a maioria das raças do RPG, então eles viram muita coisa acontecer. São um pouco mais baixos que os humanos, e possuem traços mais finos e delicados. Além disso, normalmente não precisam dormir, ou dormem muito pouco. Costumam viver próximos da natureza, e têm fascínio pela arte.
                     </div>
                   </div>
                 </div>
@@ -219,7 +219,7 @@
                   </h2>
                   <div id="collapseFifteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        Os <strong>anões</strong> são seres pequenos e robustos, rabugentos e teimosos. Normalmente ostentam uma longa barba, símbolo de poder, força, honra e orgulho racial. Possuem uma voz grossa e marcante entre os grupos de RPG! Possuem relação forte com o subterrâneo, com a mineração e com a metalurgia (sempre adorando uma armadura bem forjada e uma arma equilibrada), além de claro uma cerveja bem gelada, se possível em um copo rústico! Costumam possuir grandes valores, como a honra, a glória, a ordem e a lealdade, e por padrão, medem entre 1,4 e 1,5 metros, e vivem cerca de 5 vezes mais que os humanos.
                     </div>
                   </div>
                 </div>
@@ -231,7 +231,7 @@
                   </h2>
                   <div id="collapseSixteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        Os <strong>minotauros</strong> são humanóides com cabeça de touro. Costumam ter caudas longas e peludas, e patas com cascos, como as de um verdadeiro touro. Eles podem possuir um corpo humano, ou o corpo de um “touro humanizado”. São fortes em músculo, dedicação e coragem (embora tenham medo de altura no cenário de Arton!). Eles são zelosos e adoram batalhas e armas grandes (com destaque pra espada táurica, a maior espada de Tormenta RPG). Como possuem chifres, uma de suas habilidades de raça são justamente poder atacar com eles!
                     </div>
                   </div>
                 </div>
@@ -243,7 +243,7 @@
                   </h2>
                   <div id="collapseSeventeen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        <strong>Gnomos</strong> muitas vezes possuem forte relação com a natureza, o mundo das fadas, e/ou com o uso da lógica (pra criação de engenhocas e alquimias, por exemplo). São curiosos e impulsivos, apaixonados pela exploração e pelas ciências exatas, e possuem membros esguios, cabelos de cores brilhantes e traços faciais infantis e muito expressivos. São menores e menos robustos que os anões. Alguns podem falar com os animais (como os gnomos da floresta em D&D).
                     </div>
                   </div>
                 </div>
@@ -255,7 +255,7 @@
                   </h2>
                   <div id="collapseEighteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        Os <strong>Goblins</strong> são criaturas verdes e pequenas, com orelhas longas, nariz pontudo e dentes afiados. Eles são muitas vezes tidos erroneamente como criaturas deploráveis e nojentas, comparadas à ratos, baratas e outras criaturas repugnantes. São vistos como monstros pela maioria das outras raças do RPG medieval. Costumam ser temidos por espreitarem em grandes bandos, e se reproduzem em grande quantidade. Eles podem ser uma ameaça maior do que você imagina! Contudo, eles são esguios, engenhosos, inteligentes. Não parece, mas quando se convive com um goblin, ele se revela ser criativo, honesto e bem presente.
                     </div>
                   </div>
                 </div>
@@ -267,7 +267,7 @@
                   </h2>
                   <div id="collapseNineteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        Os <strong>Tieflings</strong> em sua essência são meio-demônios. São assim não por escolha deles, mas pela infusão da alma de um demônio em sua linhagem anos atrás, fruto de um pecado ancestral. São uma das raças mais socialmente subjugadas do RPG medieval. Possuem tamanho normal, grandes chifres dos mais variados formatos, uma cauda de mais de 1 metro de comprimento, caninos bem afiados e olhos sem íris/pupila (com uma cor sólida).
                     </div>
                   </div>
                 </div>
@@ -279,7 +279,7 @@
                   </h2>
                   <div id="collapseTwenty" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        Os <strong>Halflings</strong> são pequenos humanóides alegres e curiosos, que gostam da vida calma, da paz e do ambiente bucólico. Adoram comida, conversa, o conforto do lar e também não gostam de ostentar. Usam roupas simples, confortáveis e práticas, normalmente com cores claras. Apreciam muito os laços de família e de amizade, e gostam demais de descobrir coisas novas. Preferem a espontaneidade ao planejamento. Eles raramente chegam a 1 metro de altura, e pesam entre 20 e 23kg. Normalmente, os halflings homens possuem costeletas, e raramente barba e bigodes. Também costumam possuir um tufo de cabelo no peito dos pés.
                     </div>
                   </div>
                 </div>
@@ -291,7 +291,7 @@
                   </h2>
                   <div id="collapseTwentyOne" class="accordion-collapse collapse" data-bs-parent="#Wiki">
                     <div class="accordion-body">
-                        texto <strong>texto</strong> texto
+                        Os <strong>Draconatos</strong> (ou <strong>Dragonborns</strong>) são descendentes de dragões. São humanóides com escamas e cabeça de dragão. Eles andam orgulhosamente sobre um mundo que os saúda com um temor incompreensível. Alguns são servos fiéis de dragões, outros são soldados, e outros são aventureiros como conhecemos. São maiores que os humanoides comuns, chegando acima dos 1,8 metros, e pesando mais de 100kg, e vivem tanto quanto os humanos (cerca de 80 anos).
                     </div>
                   </div>
                 </div>
