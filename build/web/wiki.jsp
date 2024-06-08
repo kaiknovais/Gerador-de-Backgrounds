@@ -31,8 +31,8 @@
         
         <div class="container text-center">
             <div class="row justify-content-md-center">
-                <div class="col-6"><h1>Raças</h1></div>
                 <div class="col-6"><h1>Classes</h1></div>
+                <div class="col-6"><h1>Raças</h1></div>
             </div>
         </div>
         <div class="container text-center">
@@ -186,19 +186,118 @@
               </div>
                 </div>
                 <div class="col-6">
-                    <ul class="list-group">
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Humanos</a>
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Elfos</a>
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Anões</a>
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Minotauros</a>
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Gnomos</a>
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Goblings</a>
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Tieflings</a>
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Halflings</a>
-                        <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Draconatos</a>
-                    </ul>
+                    <div class="accordion" id="Wiki">
+                    <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+                      Humanos
+                    </button>
+                  </h2>
+                  <div id="collapseThirteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                      Elfos
+                    </button>
+                  </h2>
+                  <div id="collapseFourteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+                      Anões
+                    </button>
+                  </h2>
+                  <div id="collapseFifteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+                      Minotauros
+                    </button>
+                  </h2>
+                  <div id="collapseSixteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
+                      Gnomos
+                    </button>
+                  </h2>
+                  <div id="collapseSeventeen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
+                      Goblins
+                    </button>
+                  </h2>
+                  <div id="collapseEighteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNineteen" aria-expanded="false" aria-controls="collapseNineteen">
+                      Tieflings
+                    </button>
+                  </h2>
+                  <div id="collapseNineteen" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">
+                      Halflings
+                    </button>
+                  </h2>
+                  <div id="collapseTwenty" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyOne" aria-expanded="false" aria-controls="collapseTwentyOne">
+                      Draconatos
+                    </button>
+                  </h2>
+                  <div id="collapseTwentyOne" class="accordion-collapse collapse" data-bs-parent="#Wiki">
+                    <div class="accordion-body">
+                        texto <strong>texto</strong> texto
+                    </div>
+                  </div>
+                </div>
                 </div>
             </div>
+        </div>
         </div>
     </body>
 </html>
