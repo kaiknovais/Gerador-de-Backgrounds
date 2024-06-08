@@ -43,11 +43,13 @@
         <option value="d20">D20</option>
         <option value="d100">D100</option>
     </select>
+    <button onclick="rollDice()">Reroll</button><br />
 
     <div id="result"> <img src="https://kcddelizabethemsley.wordpress.com/wp-content/uploads/2018/01/untitled-3.gif" alt="dado" width="40" height="40"> <span id="diceResult"></span></div>
           </div>
         </div>
        </div>
+        
         
         <div class="container text-center">
             <div class="row align-items-end">
