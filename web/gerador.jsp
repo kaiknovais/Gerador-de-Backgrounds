@@ -50,7 +50,7 @@
         <div class="container text-center">
             <div class="row align-items-end">
               <div class="col" id="text">
-                    <p>TEXTO</p>
+                    <p>Bem-vindo à forja! Aqui você poderá dar vida ao seu personagem de RPG, basta inserir suas ideias – como nome, raça, classe, antecedentes e traços de personalidade – e o ferreiro trabalhará em uma história que reflete sua criatividade. Você também pode ajustar detalhes e adicionar suas próprias sugestões. Assim, seu personagem estará pronto para se aventurar no mundo dos RPGs.</p>
               </div>
             </div>
        </div>
