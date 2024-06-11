@@ -35,5 +35,40 @@
             </div>
         </div>
         
+        <div class="container text-center" id="prompt">
+          <div class="row align-items-start">
+            <div class="col" id="coluna">
+                <h2>Nome: <strong>Aerendyl Thalor</strong> <br>
+                    Raça: <strong>Elfo</strong> <br>
+                    Classe: <strong>Bárbaro</strong>
+                </h2>
+                <p>
+                    Aerendyl Thalor, um elfo de Aryndor, nasceu em uma floresta harmoniosa e foi treinado para ser druida. Aos 15 anos, sua terra natal foi invadida por um necromante e criaturas das trevas, resultando na destruição da floresta e na morte de muitos elfos, incluindo sua família. Capturado e escravizado, Aerendyl foi forçado a lutar nas arenas sombrias, desenvolvendo uma fúria bárbara. Após anos de tormento, ele escapou, liderando uma rebelião e destruindo a fortaleza do necromante. Agora, como um bárbaro errante, Aerendyl busca vingança e a restauração de Aryndor, enfrentando inimigos e formando alianças em sua jornada.
+                </p>
+            </div>
+            <div class="col" id="coluna">
+                <h2>
+                    Nome: <strong>Drakar Bloodbane</strong> <br>
+                    Raça: <strong>Orc</strong> <br>
+                    Classe: <strong>Bruxo</strong>
+                </h2>
+                <p>
+                    Drakar Bloodbane nasceu nas sombrias planícies de Gorgoth, onde os orcs são conhecidos por sua força bruta. Diferente dos outros, ele demonstrou uma inclinação rara para a magia. Criado em um clã guerreiro que desprezava o misticismo, Drakar encontrou um tomo antigo em cavernas proibidas e firmou um pacto sombrio, ganhando habilidades mágicas únicas.
+Eventualmente, seu próprio clã o rejeitou por temer suas habilidades, levando-o ao exílio. Vagando por terras devastadas, Drakar aperfeiçoou sua magia e jurou vingança. Agora, ele busca consolidar seu poder e encontrar um novo propósito, procurando aliados que compreendam seu potencial e o ajudem em sua busca por poder e vingança.
+                </p>
+            </div>
+            <div class="col">
+                <h2>
+                    Nome: <strong>Finbar Glittergale</strong> <br>
+                    Raça: <strong>Gnomo</strong> <br>
+                    Classe: <strong>Bardo</strong>
+                </h2>
+                <p>
+                    Finbar Glittergale nasceu nos bosques mágicos de Eldergreen, onde se destacou desde cedo como um talentoso músico e contador de histórias. Crescendo em uma comunidade que valorizava a alegria e a arte, ele se tornou um prodígio musical, dominando diversos instrumentos e encantando a todos com suas canções. Insatisfeito em apenas entreter seu povo, Finbar decidiu explorar o mundo, levando sua música a lugares onde a alegria era rara. Com uma mochila cheia de instrumentos mágicos, ele enfrentou perigos e fez aliados, usando sua astúcia e talento para superar desafios. Suas canções possuíam magia poderosa, capaz de curar, proteger e confundir.
+                </p>
+            </div>
+          </div>
+        </div>
+        
     </body>
 </html>

@@ -113,3 +113,11 @@ selector {
     font-size: 40px;
     font-weight: bold;
 }
+#prompt {
+    background-color: #ebddce;
+}
+#coluna {
+    border-width: 5px;
+    border-right: double;
+    border-color: #fac543;
+}
