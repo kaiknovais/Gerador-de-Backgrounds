@@ -71,69 +71,44 @@
             document.getElementById('diceResult').innerHTML = '';
         }
 
-        function d2() {
-            clearResults();
-            document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 2) + 1);
-        }
-        function d4() {
-            clearResults();
-            document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 4) + 1);
-        }
-        function d6() {
-            clearResults();
-            document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 6) + 1);
-        }
-        function d8() {
-            clearResults();
-            document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 8) + 1);
-        }
-        function d10() {
-            clearResults();
-            document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 10) + 1);
-        }
-        function d12() {
-            clearResults();
-            document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 12) + 1);
-        }
-        function d20() {
-            clearResults();
-            document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 20) + 1);
-        }
-        function d100() {
-            clearResults();
-            document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 100) + 1);
-        }
-
         function rollDice() {
             var selectedDice = document.getElementById('diceSelector').value;
-            switch (selectedDice) {
-                case 'd2':
-                    d2();
-                    break;
-                case 'd4':
-                    d4();
-                    break;
-                case 'd6':
-                    d6();
-                    break;
-                case 'd8':
-                    d8();
-                    break;
-                case 'd10':
-                    d10();
-                    break;
-                case 'd12':
-                    d12();
-                    break;
-                case 'd20':
-                    d20();
-                    break;
-                case 'd100':
-                    d100();
-                    break;
-                default:
-                    console.log('Seleção inválida');
-                    break;
+            switch (selectedDice) {                
+            case 'd2':    
+                clearResults();
+                document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 2) + 1);                    
+                break;                
+            case 'd4':
+                clearResults();
+                document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 4) + 1);                    
+                break;
+            case 'd6':
+                clearResults();
+                document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 6) + 1);    
+                break;                
+            case 'd8':
+                clearResults();
+                document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 8) + 1);                    
+                break;                
+            case 'd10':
+                clearResults();            
+                document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 10) + 1);                    
+                break;
+            case 'd12':
+                clearResults();
+                document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 12) + 1);                    
+                break;
+            case 'd20':
+                clearResults();
+                document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 20) + 1);                                    
+                break;
+            case 'd100':
+                clearResults();
+                document.getElementById('diceResult').innerHTML = Math.floor((Math.random() * 100) + 1);                    
+                break;                            
+            default:                    
+                console.log('Seleção inválida');                    
+                break;
             }
         }
     </script>
