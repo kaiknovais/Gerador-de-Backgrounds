@@ -33,14 +33,14 @@
                 <div class="col" id="text">
                     <div>
                         <form id="chat-form">
-                            <h3>Insira sua Mensagem</h3>
+                            <h2>Digite seu prompt:</h2>
                             <input type="text" id="mytext" style="width: 50%;" required>
                             <button type="submit">Enviar</button>
                             </form>
                             <div>
                                 <br>
                                 <h2>Resposta</h2>
-                                <textarea id="response" rows="20" style="width: 80%;" readonly></textarea>
+                                <textarea id="response" rows="10" style="width: 70%;" readonly></textarea>
                                 </div>
                         </div>
                         <script src="gpt.js"></script>
